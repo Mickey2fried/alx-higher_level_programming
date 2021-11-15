@@ -1,0 +1,2 @@
+#!/bin/bash
+python3 PYCODE='print("Best School: {}".format(88+10))
