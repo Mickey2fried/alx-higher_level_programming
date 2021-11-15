@@ -1,0 +1,1 @@
+#### Python is an intepreted language and hence is  easy to use, as compared to other programming languages. This project is based on the basic nature and use of python.
